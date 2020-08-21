@@ -1,0 +1,8 @@
+{
+    "husky": {
+        "hooks": {
+            "pre-commit": "yarn lint:ci",
+            "commit-msg": "lint:commit-message"
+        }
+    }
+}
