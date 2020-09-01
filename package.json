@@ -1,5 +1,5 @@
 {
-    "name": "lightcone",
+    "name": "loopring-lightcone",
     "version": "1.0.0",
     "description": "A library to interact with the Loopring relayer system",
     "main": "lib/",
