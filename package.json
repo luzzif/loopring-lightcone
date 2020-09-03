@@ -1,6 +1,6 @@
 {
     "name": "loopring-lightcone",
-    "version": "1.5.8",
+    "version": "1.5.9",
     "description": "A library to interact with the Loopring relayer system",
     "main": "lib/",
     "author": "Federico Luzzi <fedeluzzi00@gmail.com>",
